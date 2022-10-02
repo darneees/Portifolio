@@ -694,7 +694,14 @@ body {
     height: 170px;
     margin: 7px;
   }
+  .project-01:nth-child(1) {
+    display: none;
+  }
+  .project-01:nth-child(2) {
+    display: none;
+  }
   .project-01 h3 {
+    padding-bottom: 5px;
     font-size: 1.2rem;
   }
   .project-01 p {
@@ -753,8 +760,8 @@ body {
     text-align: center;
   }
   .project-01 {
-    width: 115px;
-    height: 115px;
+    width: 145px;
+    height: 145px;
     margin: 10px;
   }
   .project-01:nth-child(1) {
@@ -764,8 +771,8 @@ body {
     display: none;
   }
   .project-01 h3 {
-    padding-bottom: 5px;
-    font-size: 1.1rem;
+    padding-bottom: 10px;
+    font-size: 1.3rem;
   }
   .project-01 p {
     display: none;
