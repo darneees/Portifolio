@@ -753,12 +753,19 @@ body {
     text-align: center;
   }
   .project-01 {
-    width: 130px;
-    height: 130px;
-    margin: 4px;
+    width: 115px;
+    height: 115px;
+    margin: 10px;
+  }
+  .project-01:nth-child(1) {
+    display: none;
+  }
+  .project-01:nth-child(2) {
+    display: none;
   }
   .project-01 h3 {
-    font-size: 1.2rem;
+    padding-bottom: 5px;
+    font-size: 1.1rem;
   }
   .project-01 p {
     display: none;
