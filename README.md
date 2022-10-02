@@ -12,20 +12,20 @@
 
 ## Cores Utilizadas
 
-- ``#`` Logo e Titulos ( h1, h2, h3 )
-- ``#`` Sessões ( BACKGROUND )
-- ``#`` Texto
-- ``#`` Icones e Bordas ( BOTTOM ) 
+- ``#`` -
+- ``#`` -
+- ``#`` -
+- ``#`` -
 
 ## Imagem / Icones
 
 https://undraw.co/illustrations
 
-
+https://boxicons.com
 
 ## Deployed
 
-
+https://darneees.github.io/Redesign-Portifolio/
 
 <h3 align="center">
   
