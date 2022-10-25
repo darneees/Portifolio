@@ -10,13 +10,6 @@
 - ``CSS3``
 - ``JAVASCRIPT``
 
-## Cores Utilizadas
-
-- ``#`` -
-- ``#`` -
-- ``#`` -
-- ``#`` -
-
 ## Imagem / Icones
 
 https://undraw.co/illustrations
