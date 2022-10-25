@@ -25,7 +25,7 @@ https://boxicons.com
 
 ## Deployed
 
-https://darneees.github.io/Redesign-Portifolio/
+https://darneees.github.io/Portifolio/
 
 <h3 align="center">
   
